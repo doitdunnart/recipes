@@ -3,4 +3,8 @@
 * avocado
 * lemon
 * salt
+## Prices
+* £1.50
+* £0.50
+* £0.10
 ## Instructions
